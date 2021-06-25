@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 June, 2021 - 23 June, 2021
+Week: 18 June, 2021 - 24 June, 2021
 
-TypeScript   25 hrs 19 mins  ███████████████▒░░░░░░░░░   61.66 % 
-JavaScript   6 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Svelte       2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Vue.js       2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript   22 hrs 24 mins  █████████████░░░░░░░░░░░░   52.08 % 
+JavaScript   8 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Svelte       2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+MDX          2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Vue.js       2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 <!--END_SECTION:waka-->
