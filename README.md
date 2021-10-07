@@ -3,7 +3,7 @@
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 05 October, 2021
+Week: 30 September, 2021 - 06 October, 2021
 
 JavaScript   1 hr 47 mins    ███████████████████▓░░░░░   78.99 % 
 JSX          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
