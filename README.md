@@ -3,9 +3,9 @@
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2021 - 18 October, 2021
+Week: 13 October, 2021 - 19 October, 2021
 
-HTML   7 mins          █████████████████████████   100.00 % 
+HTML   7 mins          ████████████████████████░   96.34 % 
 ```
 <!--END_SECTION:waka-->
 
