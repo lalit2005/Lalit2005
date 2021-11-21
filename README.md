@@ -3,7 +3,9 @@
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 November, 2021 - 20 November, 2021
+
+TypeScript   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
