@@ -3,9 +3,9 @@
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2021 - 22 December, 2021
+Week: 17 December, 2021 - 23 December, 2021
 
-TypeScript   2 hrs 26 mins   █████████████████████████   99.81 % 
+TypeScript   2 hrs 24 mins   █████████████████████████   99.80 % 
 ```
 <!--END_SECTION:waka-->
 
