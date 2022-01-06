@@ -3,7 +3,7 @@
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
+Week: 30 December, 2021 - 05 January, 2022
 
 TypeScript   1 hr 9 mins     ██████████████████▓░░░░░░   75.20 % 
 JSON         11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
