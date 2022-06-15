@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
 TypeScript   23 hrs 34 mins  ███████████████████████▓░   94.13 %
 Other        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
