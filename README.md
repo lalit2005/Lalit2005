@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Lalit</h1>
+<h1 align="center">Lalit</h1>
 
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
