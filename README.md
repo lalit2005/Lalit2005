@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Astro        4 hrs 20 mins   ████████████████▒░░░░░░░░   65.08 %
-TypeScript   1 hr 49 mins    ███████░░░░░░░░░░░░░░░░░░   27.40 %
-JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Astro        4 hrs 33 mins   ██████████████▓░░░░░░░░░░   58.40 %
+TypeScript   1 hr 49 mins    ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+Go           45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
