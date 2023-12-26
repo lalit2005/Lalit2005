@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2023 - To: 24 December 2023
+From: 18 December 2023 - To: 25 December 2023
 
-Astro        3 hrs 35 mins   ███████████░░░░░░░░░░░░░░   43.54 %
-Go           3 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.03 %
-JavaScript   58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Go           3 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   36.86 %
+Astro        3 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.06 %
+JavaScript   2 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
