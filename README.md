@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
 Go           3 hrs 28 mins   ███████████████▒░░░░░░░░░   61.98 %
 Astro        1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
