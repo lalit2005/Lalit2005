@@ -4,13 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Go           3 hrs 28 mins   ███████████████▒░░░░░░░░░   61.98 %
-Astro        1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-CSS          29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Go      2 hrs 59 mins   ████████████████████████▒   97.14 %
+Astro   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
