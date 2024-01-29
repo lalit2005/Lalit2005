@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 27 January 2024
+From: 21 January 2024 - To: 28 January 2024
 
-Go           7 hrs 41 mins   ████████████████▓░░░░░░░░   66.14 %
-TypeScript   2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-C            1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Go           10 hrs 32 mins  █████████████████▒░░░░░░░   69.32 %
+TypeScript   3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+C            1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
