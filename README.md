@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2024 - To: 06 March 2024
+From: 29 February 2024 - To: 07 March 2024
 
-JavaScript   10 hrs 3 mins   ███████████▒░░░░░░░░░░░░░   45.87 %
-C            4 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-Astro        2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-TypeScript   2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Go           52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+JavaScript   8 hrs 36 mins   ███████████▒░░░░░░░░░░░░░   45.74 %
+C            3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Astro        2 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+TypeScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+Go           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
