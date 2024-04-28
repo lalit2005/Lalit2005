@@ -1,6 +1,5 @@
-<h1 align="center">Lalit</h1>
+## [Lalit](https://lalit.sh)
 
-#### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,4 +14,4 @@ CSS          46 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Reach me at → lalitvijay9480@gmail.com
+lalitvijay9480@gmail.com
