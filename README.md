@@ -3,10 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2024 - To: 19 July 2024
+From: 13 July 2024 - To: 20 July 2024
 
-Lua          3 mins          ██████████████████████▓░░   90.95 %
-JavaScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+C            23 mins         ███████████████░░░░░░░░░░   59.49 %
+TypeScript   11 mins         ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Lua          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
