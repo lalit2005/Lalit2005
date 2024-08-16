@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2024 - To: 14 August 2024
+From: 08 August 2024 - To: 15 August 2024
 
-C            5 hrs 4 mins    ██████████████▒░░░░░░░░░░   57.28 %
-JavaScript   3 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Java         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-gitconfig    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JavaScript   4 hrs 17 mins   ███████████░░░░░░░░░░░░░░   43.98 %
+C            4 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.37 %
+TypeScript   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Java         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+gitconfig    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
