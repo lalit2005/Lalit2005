@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-JavaScript   7 hrs 4 mins    ██████████████████▓░░░░░░   74.93 %
-Assembly     1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-TypeScript   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Velocity     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Java         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+JavaScript   5 hrs 57 mins   ██████████████████░░░░░░░   71.57 %
+Assembly     1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+TypeScript   25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Velocity     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Java         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
