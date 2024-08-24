@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2024 - To: 22 August 2024
+From: 16 August 2024 - To: 23 August 2024
 
-JavaScript   3 hrs 35 mins   █████████████████░░░░░░░░   68.44 %
-Assembly     1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Velocity     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-fish         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   2 hrs 23 mins   ████████████████░░░░░░░░░   64.43 %
+Assembly     57 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+Velocity     19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+fish         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
