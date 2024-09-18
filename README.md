@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Java         5 hrs 42 mins   █████████████████░░░░░░░░   68.44 %
-Markdown     45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Other        37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Python       33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-TypeScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Java         6 hrs 52 mins   ██████████████████░░░░░░░   72.32 %
+Markdown     45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Other        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Python       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+TypeScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
