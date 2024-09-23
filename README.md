@@ -3,13 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2024 - To: 21 September 2024
+From: 15 September 2024 - To: 22 September 2024
 
-Java         3 hrs 35 mins   ███████████████▓░░░░░░░░░   62.08 %
-V            1 hr 54 mins    ████████▒░░░░░░░░░░░░░░░░   33.14 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-C            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+V       1 hr 57 mins    █████████████▓░░░░░░░░░░░   55.10 %
+Java    1 hr 28 mins    ██████████▒░░░░░░░░░░░░░░   41.64 %
+Other   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
