@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 30 September 2024
+From: 24 September 2024 - To: 01 October 2024
 
-Astro        3 hrs 37 mins   ████████▓░░░░░░░░░░░░░░░░   34.20 %
-TypeScript   2 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-Java         1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Markdown     1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-CSS          40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+TypeScript    2 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Astro         2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+Java          1 hr 41 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+CSS           37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+V             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
