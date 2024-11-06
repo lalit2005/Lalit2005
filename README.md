@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2024 - To: 04 November 2024
+From: 29 October 2024 - To: 05 November 2024
 
-Java    58 mins         ████████████████████████▒   97.40 %
-INI     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+MDX          24 mins         █████████████████████▓░░░   87.26 %
+TypeScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
