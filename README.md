@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 08 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
 V            3 hrs 5 mins    ██████████████████▒░░░░░░   73.87 %
 MDX          25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
