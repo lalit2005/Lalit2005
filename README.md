@@ -1,4 +1,4 @@
-## [Lalit](https://lalit.sh)
+## lalit
 
 <!--START_SECTION:waka-->
 
@@ -14,4 +14,4 @@ Markdown     14 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-lalitvijay9480@gmail.com
+[website](https://lalit.sh) | [twitter](https://x.com/@lalitcodes) | [contact](https://lalit.sh/contact)
