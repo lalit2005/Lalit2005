@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2025 - To: 14 February 2025
+From: 08 February 2025 - To: 15 February 2025
 
-Java         2 hrs 23 mins   ███████████████░░░░░░░░░░   59.69 %
-JavaScript   34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Markdown     33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-C            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Java         3 hrs 49 mins   █████████████████░░░░░░░░   67.55 %
+JavaScript   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Markdown     27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+C++          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
