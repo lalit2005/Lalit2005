@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2025 - To: 04 April 2025
+From: 29 March 2025 - To: 05 April 2025
 
 C           2 hrs 22 mins   ████████████████░░░░░░░░░   63.93 %
 V           49 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
