@@ -3,10 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2025 - To: 03 May 2025
+From: 27 April 2025 - To: 04 May 2025
 
-Java    0 secs          ███████████████░░░░░░░░░░   60.00 %
-Other   0 secs          ██████████░░░░░░░░░░░░░░░   40.00 %
+Other      0 secs          █████████▓░░░░░░░░░░░░░░░   38.71 %
+Java       0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Stata      0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+Makefile   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
