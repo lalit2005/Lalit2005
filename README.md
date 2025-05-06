@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
 Other      0 secs          █████████▓░░░░░░░░░░░░░░░   38.71 %
 Java       0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.18 %
