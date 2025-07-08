@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 06 July 2025
+From: 30 June 2025 - To: 07 July 2025
 
-C            5 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.56 %
-JavaScript   2 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-PostScript   1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Bash         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+C            6 hrs 23 mins   ██████████████████▒░░░░░░   72.83 %
+JavaScript   1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+PostScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+GDB          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
