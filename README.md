@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2025 - To: 20 August 2025
+From: 14 August 2025 - To: 21 August 2025
 
-C            9 hrs 10 mins   ████████████████████░░░░░   79.62 %
-TypeScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-JavaScript   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Makefile     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+C            8 hrs 3 mins    ████████████████░░░░░░░░░   64.63 %
+C++          2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+TypeScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JavaScript   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Makefile     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
