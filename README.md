@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 10 September 2025
+From: 04 September 2025 - To: 11 September 2025
 
-C            5 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   43.22 %
-V            2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-hyprlang     1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Assembly     42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Other        34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+C            5 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   47.08 %
+C++          1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+hyprlang     1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Assembly     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Other        37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
