@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Zig          9 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.56 %
-V            4 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-tmux         2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Other        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Zig              9 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.97 %
+V                4 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+tmux             2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Assembly         1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+ca65 assembler   1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
