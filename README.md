@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2025 - To: 22 October 2025
+From: 16 October 2025 - To: 23 October 2025
 
-ca65 assembler   9 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.16 %
-V                4 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-C++              2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Assembly         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Makefile         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+ca65 assembler   9 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.94 %
+C++              6 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.36 %
+Assembly         1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Zig              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Makefile         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
