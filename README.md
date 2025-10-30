@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2025 - To: 28 October 2025
+From: 22 October 2025 - To: 29 October 2025
 
-C++              6 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   43.15 %
-Zig              5 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   38.62 %
-ca65 assembler   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Markdown         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Assembly         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Zig              7 hrs 38 mins   █████████████▓░░░░░░░░░░░   54.73 %
+C++              3 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Markdown         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+ca65 assembler   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Assembly         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
