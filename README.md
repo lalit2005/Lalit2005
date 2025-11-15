@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 07 November 2025 - To: 14 November 2025
 
 Zig         8 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.73 %
 C           7 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.89 %
