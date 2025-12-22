@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Other            3 mins          █████████▒░░░░░░░░░░░░░░░   37.64 %
-Text             1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-conf             1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Makefile         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-ca65 assembler   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Zig              5 hrs 34 mins   ██████████████████████▒░░   89.62 %
+C                20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Other            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
