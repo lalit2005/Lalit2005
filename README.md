@@ -3,12 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Zig     4 hrs 34 mins   ███████████████████████▒░   92.84 %
-Other   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-C       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Zig     3 hrs 40 mins   ███████████████████████▒░   92.79 %
+Other   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
