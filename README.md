@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Zig          15 hrs 23 mins  █████████████████▓░░░░░░░   70.70 %
-TypeScript   3 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-C            2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Zig          14 hrs 11 mins  ███████████████▓░░░░░░░░░   62.95 %
+C            4 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+TypeScript   3 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
