@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-C                8 hrs 25 mins         ██████████████████▒░░░░░░   73.85 %
-HTML             59 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-JavaScript       42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Text             22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Markdown         17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+C                8 hrs 36 mins         ████████████████▒░░░░░░░░   65.20 %
+HTML             59 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+JavaScript       42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Markdown         40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+TypeScript       35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
