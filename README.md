@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2026 - To: 20 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-TypeScript   1 hr 42 mins          ███████████████████████▒░   93.48 %
-sshconfig    4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-TOML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   1 min                 █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
