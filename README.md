@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Markdown           1 hr 21 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-Python             1 hr 11 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-TeX                48 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Other              44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Lua                26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Python             2 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+Markdown           2 hrs 15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+Other              56 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+TeX                48 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+YAML               40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
