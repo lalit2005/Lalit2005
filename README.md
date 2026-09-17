@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2026 - To: 14 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-Markdown        4 hrs 14 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 %
-Python          3 hrs 1 min           █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-Other           1 hr 55 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-JSON            1 hr 19 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Tcl             1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Markdown        5 hrs 11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Python          3 hrs 43 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+Other           2 hrs 36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+SystemVerilog   1 hr 38 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+JSON            1 hr 14 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
