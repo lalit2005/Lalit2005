@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Other         23 mins               █████████▒░░░░░░░░░░░░░░░   37.71 %
-Zig           22 mins               █████████░░░░░░░░░░░░░░░░   36.51 %
-C             11 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-Markdown      2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Markdown      24 mins               █████████▓░░░░░░░░░░░░░░░   39.18 %
+C             20 mins               ████████▒░░░░░░░░░░░░░░░░   32.93 %
+Other         15 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
 hyprlang      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Text          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
