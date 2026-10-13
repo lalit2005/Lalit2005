@@ -3,13 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
-Markdown     22 mins               ████████░░░░░░░░░░░░░░░░░   32.43 %
-TypeScript   20 mins               ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-Bash         12 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-Other        7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Text         4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Bash         12 mins               ████████████░░░░░░░░░░░░░   47.85 %
+TypeScript   9 mins                ████████▓░░░░░░░░░░░░░░░░   34.35 %
+Text         4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
 ```
 
 <!--END_SECTION:waka-->
