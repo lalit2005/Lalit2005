@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2026 - To: 24 October 2026
+From: 18 October 2026 - To: 25 October 2026
 
-Kotlin          3 hrs 56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-V               3 hrs 49 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
-Markdown        1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-TypeScript      1 hr 32 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-SystemVerilog   1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Kotlin          3 hrs 56 mins         █████████░░░░░░░░░░░░░░░░   36.44 %
+TypeScript      1 hr 32 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Markdown        1 hr 15 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+V               1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Other           56 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
 ```
 
 <!--END_SECTION:waka-->
